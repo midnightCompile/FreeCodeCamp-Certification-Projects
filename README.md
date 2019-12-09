@@ -6,9 +6,9 @@ This repo will be used to house projects used to earn certifications via freecod
 Please keep in mind that this is an ongoing process. The list of technologies and projects below will continue to grow as additional certifications are being earned.
 
 ## Table of Contents
-* Certifications
-* Technologies
-* Projects
+* [Certifications](#certifications)
+* [Technologies](#technologies)
+* [Projects](#projects)
 
 ## Certifications
 The current certification in progress:
