@@ -70,10 +70,6 @@ a:hover {
     color: #333;
 }
 
-#tribute-info {
-    
-}
-
 #tribute-link {
     color: rgba(115, 221, 162, 0.75);
 }
@@ -84,10 +80,21 @@ a:hover {
     }
 }
 
-@media (min-width: 500px) {
-    
-}
+@media (min-width: 500px){}
+    #img-div {
+        max-width: 700px;
+        margin: 0 auto;
+    }
 
-@media (min-width: 700px) {
+    #tribute-info {
+        max-width: 550px;
+        margin: 0 auto;
+        text-align: left;
+    }
 
+    #tribute-link-info {
+        max-width: 700px;
+        margin: 0 auto;
+        text-align: center;
+    }
 }
