@@ -6,19 +6,22 @@ This repo will be used to house projects used to earn certifications via freecod
 Please keep in mind that this is an ongoing process. The list of technologies and projects below will continue to grow as additional certifications are being earned.
 
 ## Table of Contents
-* [Certifications](#certifications)
 * [Technologies](#technologies)
+* [Certifications](#certifications)
 * [Projects](#projects)
-
-## Certifications
-The current certification in progress:
-* Responsive Web Design Certification
 
 ## Technologies
 The following technologies have been used in one or more projects:
-* HTML 5
-* CSS 3
+* HTML5
+* CSS3
+
+## Certifications
+The current certification in progress:
+* [Responsive Web Design Certification](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification)
 
 ## Projects
-The current project in progress:
-* Tribute Page
+Completed Projects:
+* [Tribute Page](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/tribute-page)
+
+In Development:
+* [Survey Form](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/survey-form)

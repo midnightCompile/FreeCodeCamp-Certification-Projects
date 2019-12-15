@@ -1,11 +1,11 @@
-# Responsive Web Design Certification
+# Tribute Page
 
 ## Introduction
 The first project in FreeCodeCamp's Responsive Web Design Certification asks that students build a [Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page). A number of requirements are used to demonstrate information from prior lessons has been applied into practical web development skill, and these must be met for the certificate to be awarded.
 
 Since FCC's curriculum experiences periodic updates, the [instructions](#instructions) used for this project have been included below to preserve their info against future changes to the project instructions/requirements.
 
-I will be taking a slightly different approach in completing this project. Although FCC encourages students to utilize [CodePen.io](#codepen.io), I'll be writing most of this project on my local machine and pushing the code to the project's [github repo](#https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/responsive-web-design-certification).
+I have taken a slightly different approach in completing this project. Although FCC encourages students to utilize [CodePen.io](#codepen.io), I wrote most of this project on my local machine and later pushed the code to the project's [github repo](#https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/tribute-page). This was done to gain better familiarity with tools used in industry and to begin developing version control workflow habits.
 
 ## Table of Contents
 * [CodePen.io](#codepen.io)
@@ -15,12 +15,12 @@ I will be taking a slightly different approach in completing this project. Altho
 ## CodePen.io
 FreeCodeCamp makes use of (codepen.io)[https://codepen.io/], an online resource enabling developers to build projects directly in their browser. This platform has a built-in editor and allows developers to preview changes in their app in real-time as code is being written.
 
-Here is a link to [this project](https://codepen.io/theMidnightCompiler/pen/vYELKrZ) which will be submitted to FCC upon completion.
+Here is a link to [this project](https://codepen.io/theMidnightCompiler/pen/XWJjYPM) on CodePen.io
 
 ## Technologies
 The following technologies have were utilized in developing this project:
-* HTML 5
-* CSS 3
+* HTML5
+* CSS3
 
 ## Instructions
 FreeCodeCamp works to keep their curriculum fresh and up-to-date with current industry tools, technologies, and trends. The project instructions and requirements that were in place at the time this certificate was being earned are as follows:
