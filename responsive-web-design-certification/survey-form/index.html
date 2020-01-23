@@ -18,14 +18,147 @@
     <body>
         <div class="container">
             <header class="header">
-                <h1 id="title" class="text-center">Personal Development Feedback Form</h1>
+                <h1 id="title" class="text-center">Personal Development Page Feedback Form</h1>
                 <p id="description" class="description text-center">
-                    Please use the following form to provide feedback regarding how you came to this page. Thank you, for your cooperation.
+                    Please use the following form to provide feedback regarding how you came to  my personal online platform. Thank you, for your cooperation.
                 </p>
             </header>
             <form id="survey-form">
                 <div class="form-group">
-
+                    <label id="name-label" for="name">Name</label>
+                    <input 
+                        type="text"
+                        name="name"
+                        id="name"
+                        class="form-control"
+                        placeholder="Please enter your name."
+                        required
+                    />
+                </div>
+                <div class="form-group">
+                    <label id="email-label" for="email">Email</label>
+                    <input
+                        type="email"
+                        name="email"
+                        id="email"
+                        class="form-control"
+                        placeholder="Please enter your Email."
+                        required
+                    />
+                </div>
+                <div class="form-group">
+                    <label id="number-label" for="number">Time we've knowne each other (years)<span class="clue">(optional)</span></label>
+                    <input
+                        type="number"
+                        name="known"
+                        id="number"
+                        min="0"
+                        max="100"
+                        class="form-control"
+                        placeholder="How many years have we been acquainted?"
+                    />
+                </div>
+                <div class="form-group">
+                    <p>What brought you to my platform?</p>
+                    <select id="dropdown" name="reason" class="form-control" required>
+                        <option disabled selected value>Reasons</option>
+                        <option value="hiring-manager">Hiring Manager in consideration of a prospective opportunity</option>
+                        <option value="recruiter">Recruiter looking for potential candidates</option>
+                        <option value="family-friend">I'm a family member or friend just seeing your work</option>
+                        <option value="preferNo">Prefer not to say at this time</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <p>Would you recommend others to view my work?</p>
+                    <label>
+                        <input
+                            name="user-recommend"
+                            value="definitly"
+                            type="radio"
+                            class="input-radio"
+                            checked
+                        />Without Reservation
+                    </label>
+                    <label>
+                        <input
+                            name="user-recommend"
+                            value="yes"
+                            type="radio"
+                            class="input-radio"
+                        />Yes
+                    </label>
+                    <label>
+                        <input
+                            name="user-recommend"
+                            value="maybe"
+                            type="radio"
+                            class="input-radio"
+                        />Maybe
+                    </label>
+                    <label>
+                        <input
+                            name="user-recommend"
+                            value="no"
+                            type="radio"
+                            class="input-radio"
+                        />No
+                    </label>
+                    <label>
+                        <input
+                            name="user-recommend"
+                            value="never"
+                            type="radio"
+                            class="input-radio"
+                        />Absolutely Not
+                    </label>
+                </div>
+                <div class="form-group">
+                    <p>
+                        Which of the following did you find most insightful with regards to my skills?<span class="clue">(Check any/all that apply)</span>
+                    </p>
+                    <label>
+                        <input
+                            name="insight"
+                            value="portfolio"
+                            type="checkbox"
+                        />Portfolio site general appearance and features
+                    </label>
+                    <label>
+                        <input
+                            name="insight"
+                            value="projects"
+                            type="checkbox"
+                        />Showcased projects that have been completed
+                    </label>
+                    <label>
+                        <input
+                            name="insight"
+                            value="github"
+                            type="checkbox"
+                        />Repositories viewable on GitHub
+                    </label>
+                    <label>
+                        <input
+                            name="insight"
+                            value="background"
+                            type="checkbox"
+                        />Summary of skills and Resume
+                    </label>
+                </div>
+                <div class="form-control">
+                    <p>Are there any comments or suggestions you would like to provide?</p>
+                    <textarea
+                        id="comments"
+                        class="input-textarea"
+                        name="comment"
+                        placeholder="Please enter comments/suggestions here."
+                    ></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit" id="submit" class="submit-button">
+                        Submit
+                    </button>
                 </div>
             </form>
         </div>
