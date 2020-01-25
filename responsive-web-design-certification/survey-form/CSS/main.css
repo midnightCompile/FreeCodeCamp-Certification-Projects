@@ -1,18 +1,51 @@
-/* General Styles */
+/* General HTML Element Styles */
+
+:root {
+    --color-white: #f3f3f3;
+    --color-darkblue: #1b1b32;
+    --color-carkblue-alpha: rgba(27, 2, 50, 0.8);
+    --color-green: #37af65;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: var(--color-white);
+    margin: 0;
+}
+
+/* General Text Styling */
 .header {
 
 }
 
 .text-center {
-
+    text-align: center;
 }
 
 .description {
 
 }
 
+/* Form Styling */
+
+form {
+
+}
+
+.form-group {
+
+}
+
+.form-control {
+
+}
+
 
 /* Styles Created To Satisfy Project Requirements */
+/*
 #title {
 
 }
@@ -22,5 +55,6 @@
 }
 
 #survey-form {
-    
+
 }
+*/
