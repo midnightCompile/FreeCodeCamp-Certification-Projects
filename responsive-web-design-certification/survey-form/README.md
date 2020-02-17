@@ -1,26 +1,31 @@
 # Survey Form -- In Development
 
-## Introduction
+## Table of Contents
+* [Project Introduction](#project-introduction)
+* [What I Learned](#what-i-learned)
+* [Technologies](#technologies)
+* [CodePen.io](#codepen.io)
+* [Instructions](#instructions)
+
+## Project Introduction
 The second project in FreeCodeCamp's Responsive Web Design Certification asks that students build a [Survey From](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) as an exercise to consider developing web interfaces for basic user input.
 
 Since FCC's curriculum experiences periodic updates, the [instructions](#instructions) used for this project have been included below to preserve their info against future changes to the project instructions/requirements.
 
-I will be taking a slightly different approach in completing this project. Although FCC encourages students to utilize [CodePen.io](#codepen.io), I'll be writing most of this project on my local machine and later pushing the code to the project's [github repo](#https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/survey-form). This will be done in an ongoing effort to gain better familiarity with tools used in industry and to begin developing version control workflow habits.
+I took a slightly different approach in completing this project. Although FCC encourages students to utilize [CodePen.io](#codepen.io), I wrote this project on my local machine and pushed the code to the project's [github repo](#https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/survey-form). This was done as part of an ongoing effort to gain better familiarity with tools used in industry and to begin developing version control workflow habits.
 
-## Table of Contents
-* [CodePen.io](#codepen.io)
-* [Technologies](#technologies)
-* [Instructions](#instructions)
-
-## CodePen.io
-FreeCodeCamp makes use of (codepen.io)[https://codepen.io/], an online resource enabling developers to build projects directly in their browser. This platform has a built-in editor and allows developers to preview changes in their app in real-time as code is being written.
-
-Here is a link to [this project](https://codepen.io/theMidnightCompiler/#) on CodePen.io
+## What I Learned
+This project provided insight into creating basic web forms, and also allowed for some minor exploration into client side web form validation performed by the browser based on HTML5.
 
 ## Technologies
 The following technologies have were utilized in developing this project:
 * HTML5
 * CSS3
+
+## CodePen.io
+FreeCodeCamp makes use of (codepen.io)[https://codepen.io/], an online resource enabling developers to build projects directly in their browser. This platform has a built-in editor and allows developers to preview changes in their app in real-time as code is being written.
+
+Here is a link to [this project](https://codepen.io/theMidnightCompiler/#) on CodePen.io
 
 ## Instructions
 FreeCodeCamp works to keep their curriculum fresh and up-to-date with current industry tools, technologies, and trends. The project instructions and requirements that were in place at the time this certificate was being earned are as follows:
