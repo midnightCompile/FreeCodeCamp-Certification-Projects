@@ -25,7 +25,7 @@ The following technologies have were utilized in developing this project:
 ## CodePen.io
 FreeCodeCamp makes use of (codepen.io)[https://codepen.io/], an online resource enabling developers to build projects directly in their browser. This platform has a built-in editor and allows developers to preview changes in their app in real-time as code is being written.
 
-Here is a link to [this project](https://codepen.io/theMidnightCompiler/#) on CodePen.io
+Here is a link to [this project](https://codepen.io/theMidnightCompiler/pen/qBdZMVM) on CodePen.io
 
 ## Instructions
 FreeCodeCamp works to keep their curriculum fresh and up-to-date with current industry tools, technologies, and trends. The project instructions and requirements that were in place at the time this certificate was being earned are as follows:

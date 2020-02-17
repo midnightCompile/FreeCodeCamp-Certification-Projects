@@ -22,6 +22,7 @@ The current certification in progress:
 ## Projects
 Completed Projects:
 * [Tribute Page](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/tribute-page)
+* [Survey Form](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/survey-form)
 
 In Development:
-* [Survey Form](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/survey-form)
+* [Product Landing Page](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/tribute-page)
