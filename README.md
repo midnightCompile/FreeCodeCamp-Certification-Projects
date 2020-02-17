@@ -25,4 +25,4 @@ Completed Projects:
 * [Survey Form](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/survey-form)
 
 In Development:
-* [Product Landing Page](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/tribute-page)
+* [Product Landing Page](https://github.com/midnightCompile/FreeCodeCamp-Certification-Projects/tree/master/responsive-web-design-certification/product-landing-page)
