@@ -1,4 +1,4 @@
-# Survey Form -- In Development
+# Survey Form
 
 ## Table of Contents
 * [Project Introduction](#project-introduction)
